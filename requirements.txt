@@ -1,0 +1,5 @@
+websocket-client>=1.6.0
+numpy>=1.24.0
+soundfile>=0.12.1
+python-dotenv>=1.0.0
+wave>=0.0.2
